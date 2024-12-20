@@ -1,6 +1,6 @@
 {
-    "name": "xylophone_app",
-    "short_name": "xylophone_app",
+    "name": "sabak_9_xylophone_app_ui",
+    "short_name": "sabak_9_xylophone_app_ui",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
